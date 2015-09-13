@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+div.container{
+	text-align:center;
+	 margin-left:10%;
+	
+}
+div.login{
+	width:20%;
+	float:left;
+	
+}
+div.signin{
+ float:left;
+	width:20%;
+	
+}
