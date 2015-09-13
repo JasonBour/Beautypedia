@@ -25,7 +25,7 @@
   
   <div class="signin">
   <p class="text-muted">没有账号？点击这里</p>
-   <a href="signin.php"><button type="button" class="btn btn-primary btn-block" >Sign in</button></a>  
+   <a href="#"><button type="button" class="btn btn-primary btn-block" >Sign in</button></a>  
  
   </div>
  </div> 
