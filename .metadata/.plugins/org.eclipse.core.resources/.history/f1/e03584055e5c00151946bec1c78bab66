@@ -44,16 +44,15 @@ div.left-profile{
 	width:20%;
    background-color:#4f4f4f;
 	height:100%;
-   margin-right:5%;	 
 }
 
 div.center-news{
-	margin:2.5%  5% 5% 0;
+	margin:20px 20px 20px
 	float:left;
     display:inline;
-    width:50%;
+    width:60%;
     background-color:#6adcac;
-	height:97.5%;
+	height:100%;
 }
 
 div.news{

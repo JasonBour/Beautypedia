@@ -53,7 +53,7 @@ div.center-news{
     display:inline;
     width:50%;
     background-color:#6adcac;
-	height:97.5%;
+	height:100%;
 }
 
 div.news{
