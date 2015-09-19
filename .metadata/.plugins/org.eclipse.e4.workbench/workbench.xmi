@@ -3,13 +3,12 @@
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;database.php&quot; tooltip=&quot;Beautypedia/utils/database.php&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Beautypedia/utils/database.php&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;profile.css&quot; tooltip=&quot;Beautypedia/css/profile.css&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Beautypedia/css/profile.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;index.php&quot; tooltip=&quot;Beautypedia/index.php&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Beautypedia/index.php&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;profile.php&quot; tooltip=&quot;Beautypedia/profile.php&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Beautypedia/profile.php&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;login.php&quot; tooltip=&quot;Beautypedia/login.php&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Beautypedia/login.php&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;index.css&quot; tooltip=&quot;Beautypedia/css/index.css&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Beautypedia/css/index.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.zend.php.common.welcome.WelcomePageEditorInput&quot; id=&quot;org.zend.customization.welcome.welcomePageEditor&quot; name=&quot;Welcome&quot; tooltip=&quot;Welcome&quot;>&#xD;&#xA;&lt;persistable categories=&quot;true&quot; discoveryFile=&quot;/directory.xml&quot; id=&quot;welcomeBrowser&quot; progressDialogMsg=&quot;Updating Zend Studio&quot; style=&quot;16&quot; url=&quot;file:/D:/zendstudio/plugins/com.zend.php.ui_12.0.1.v20141210-1054/resources/welcome/index-zend-studio-10-welcome-page.html&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_pxj2EloHEeWmzb5iccxPrg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_qav9AloHEeWmzb5iccxPrg" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_pxj2EloHEeWmzb5iccxPrg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_qav9AloHEeWmzb5iccxPrg" label="%trimmedwindow.label.eclipseSDK" x="723" y="181" width="1024" height="755">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1442326293678"/>
     <tags>topLevel</tags>
-    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_qav9AloHEeWmzb5iccxPrg" selectedElement="_qav9A1oHEeWmzb5iccxPrg" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_qav9A1oHEeWmzb5iccxPrg" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_qrH7UFoHEeWmzb5iccxPrg">
         <children xsi:type="advanced:Perspective" xmi:id="_qrH7UFoHEeWmzb5iccxPrg" elementId="org.eclipse.php.perspective" selectedElement="_qrH7UVoHEeWmzb5iccxPrg" label="PHP" iconURI="platform:/plugin/org.eclipse.php.ui/icons/full/obj16/php_perspective.gif">
@@ -89,7 +88,6 @@
           <children xsi:type="basic:PartSashContainer" xmi:id="_qrH7UVoHEeWmzb5iccxPrg" selectedElement="_qrH7VFoHEeWmzb5iccxPrg" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_qrH7UloHEeWmzb5iccxPrg" elementId="topLeft" containerData="2200" selectedElement="_qrH7U1oHEeWmzb5iccxPrg">
               <tags>newtablook</tags>
-              <tags>noFocus</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_qrH7U1oHEeWmzb5iccxPrg" elementId="org.eclipse.php.ui.explorer" ref="_qq5R0FoHEeWmzb5iccxPrg"/>
             </children>
             <children xsi:type="basic:PartSashContainer" xmi:id="_qrH7VFoHEeWmzb5iccxPrg" containerData="7800" selectedElement="_qrH7VVoHEeWmzb5iccxPrg">
@@ -140,7 +138,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_qqpaMFoHEeWmzb5iccxPrg" elementId="org.eclipse.ui.editorss" selectedElement="_qqpaMVoHEeWmzb5iccxPrg">
-      <children xsi:type="basic:PartStack" xmi:id="_qqpaMVoHEeWmzb5iccxPrg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_-l66AFxxEeWH_JPifnavlA">
+      <children xsi:type="basic:PartStack" xmi:id="_qqpaMVoHEeWmzb5iccxPrg" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_BR0T4F4EEeWx8Ka6qkvzjA">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
@@ -163,8 +161,8 @@
           <tags>org.eclipse.wst.css.core.csssource.source</tags>
           <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_-l66AFxxEeWH_JPifnavlA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="database.php" iconURI="platform:/plugin/org.eclipse.php.ui/icons/full/obj16/phpfile.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.php.editor&quot; name=&quot;database.php&quot; partName=&quot;database.php&quot; title=&quot;database.php&quot; tooltip=&quot;Beautypedia/utils/database.php&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Beautypedia/utils/database.php&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;57&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_BR0T4F4EEeWx8Ka6qkvzjA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="database.php" iconURI="platform:/plugin/org.eclipse.php.ui/icons/full/obj16/phpfile.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.php.editor&quot; name=&quot;database.php&quot; partName=&quot;database.php&quot; title=&quot;database.php&quot; tooltip=&quot;Beautypedia/utils/database.php&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Beautypedia/utils/database.php&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;41&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.php.editor</tags>
           <tags>removeOnHide</tags>
@@ -266,7 +264,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_qjPxsFoHEeWmzb5iccxPrg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_0J_tt1xxEeWH_JPifnavlA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_pzwOoFoHEeWmzb5iccxPrg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_bYQYo14BEeWx8Ka6qkvzjA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_pzwOoFoHEeWmzb5iccxPrg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_qjPxsVoHEeWmzb5iccxPrg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -287,7 +285,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_qjQYwFoHEeWmzb5iccxPrg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_0J_twVxxEeWH_JPifnavlA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_pzvAaVoHEeWmzb5iccxPrg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_bYXtZF4BEeWx8Ka6qkvzjA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_pzvAaVoHEeWmzb5iccxPrg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_qjQYwVoHEeWmzb5iccxPrg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
