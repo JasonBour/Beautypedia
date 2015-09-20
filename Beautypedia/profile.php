@@ -42,8 +42,29 @@
 
 
 <!-- text here -->
-<h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum facere, vero nisi ipsam dolores, architecto ad libero. Maxime, natus voluptatum saepe quam mollitia rem asperiores nostrum. Culpa ipsam voluptas nesciunt! </h3>
-<h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius alias sequi dignissimos, sed aspernatur quas? Est temporibus culpa ipsa, quisquam doloremque incidunt expedita quas, suscipit officiis reiciendis ipsam mollitia quos.</h4>
+<h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum facere, vero nisi ipsam dolores, architecto ad libero.  </h3>
+<h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+
+<a href="#" class="btn btn-primary btn-lg active follow" role="button">Follow</a>
+
+<div class="image-display">
+	<p class="image_contain">
+		<img src="images/808141046465970.jpg_500x500xundefined.jpg" class="image-display">
+	     <img src="images/1274333976681636.jpg_500x500xundefined.jpg" class="image-display">
+	     <img src="images/2540971371971260.jpg_500x500xundefined.jpg" class="image-display">
+	</p>
+    <p class="image_contain">
+    	<img src="images/3234763209241135.jpg_500x500xundefined.jpg" class="image-display">
+    	<img src="images/6619063297746674624.jpg" class="image-display">
+    	<img src="images/6630305804141019376.jpg" class="image-display">
+    </p>
+    <p class="image_contain"> 
+    	<img src="images/6630309102676568298.jpg" class="image-display">
+    	<img src="images/6630750006839844164.jpg" class="image-display">
+    	<img src="images/jason.jpg" class="image-display">
+    </p> 
+</div>
+
 
 
 </div>
@@ -104,6 +125,31 @@
 
 </div>
 <div class="real-content">
+
+<article class="post">
+	<img src="images/avator.jpg" class="avator">
+    <section class="content">
+     <header class="span">
+     	<span class="name">Julia</span>
+        <span class="account">@jason </span>
+        <span class="time"> 2min</span>
+     </header>  	
+     <p class="tweet">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem maxime, necessitatibus quasi. Commodi dolorum dolores expedita doloribus delectus tempora est quo incidunt, quod laborum molestiae, quia, eaque, similique eius mollitia?</p>
+  <footer>
+  	<nav>
+  		<a href="" class="icon"><li class="glyphicon glyphicon-share-alt"></li></a>
+        <a href="" class="icon"><li class="glyphicon glyphicon-star"> </li></a>
+        <a href="" class="icon"><li class="glyphicon glyphicon-refresh"></li></a>
+  	    <a href="" class="icon"><li class="glyphicon glyphicon-option-horizontal"></li></a>
+  	    <a href="" class="icon"><li class="glyphicon glyphicon-resize-small"></li></a>
+  	</nav>
+
+  </footer>
+
+    </section>    
+</article>
+
+
 
 </div>
 </div>
